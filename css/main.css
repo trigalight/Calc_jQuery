@@ -1,0 +1,19 @@
+body {
+	padding: 50px;
+}
+.logo {
+	height: 80px;
+}
+li {
+	margin-bottom: 10px;	
+}
+
+.green {
+	color: #43A047;
+}
+.selected {
+	border: 3px solid #D81B60;
+	padding: 5px;
+	margin: 2px 0px;
+	display: inline-block;
+}
